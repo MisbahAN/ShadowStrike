@@ -61,14 +61,16 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MisbahAN/pygame-platformer.git
+   git clone https://github.com/MisbahAN/ShadowStrike.git
 
 2. Navigate into the project directory:
 
+   ```bash
    cd ShadowStrike
 
-3. Run the game:
+4. Run the game:
 
+   ```bash
    python game.py
 
 ## Reference
